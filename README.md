@@ -9,6 +9,7 @@
 ### 👨‍💻 About Me
 - 🔭 I'm currently working on **Student Management System**
 - 🌱 I'm currently learning **Advanced Java Such As JDBC, Hibernate(ORM), Spring**
+- 💡 Exploring how **GenAI can be integrated with Java applications**
 - 💬 Ask me about **Core Java, SQL,PL/SQL, Java Script**
 - 🎯 Looking for **Fresher Software Developer opportunities**
 - ⚡ Fun fact: **I love coffee and debugging at midnight**
