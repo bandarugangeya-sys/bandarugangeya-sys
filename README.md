@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Java Backend Developer </h3>
 🎓 Recently graduated B.Tech Computer Science & Engineering student passionate about building practical software applications.
 
-💻 Currently strengthening my Advanced Java, SQL while exploring backend development with Spring Boot.
+💻 Currently strengthening my Advanced Java, SQL while exploring backend development with Spring Boot.<br>
 🤝 Open to entry-level roles, internships, and collaborations.
 
 --- 
