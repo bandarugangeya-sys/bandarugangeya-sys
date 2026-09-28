@@ -33,6 +33,6 @@
 - 📄 Naukri: [https://www.naukri.com/mnjuser/profile?id=&altresi]
 
 ---
-
 ---
-<p align="center"><i>"First, solve the problem. Then, write the code."</i> 💡<br>Thanks for visiting my profile! 🙌</p>
+<p align="center">**💻 Thanks for visiting! Happy coding! ☕** </p>
+
