@@ -34,5 +34,5 @@
 
 ---
 ---
-<p align="center">**💻 Thanks for visiting! Happy coding! ☕** </p>
+<p align="center"><b>💻 Thanks for visiting! Happy coding! ☕</b> </p>
 
