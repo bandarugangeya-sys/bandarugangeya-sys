@@ -3,7 +3,6 @@
 🎓 Recently graduated B.Tech Computer Science & Engineering student passionate about building practical software applications.
 
 💻 Currently strengthening my Advanced Java, SQL while exploring backend development with Spring Boot.
-
 🤝 Open to entry-level roles, internships, and collaborations.
 
 --- 
